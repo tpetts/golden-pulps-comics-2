@@ -1,0 +1,16 @@
+/* -------------------------------------
+* Author: Tia Petts
+* Date: 05/02/2020
+  -------------------------------------
+*/
+
+/* body styles */
+body {
+  background-color: #c1f9c6;
+}
+
+/* bootstrap 4 styles */
+.jumbotron {
+    background-image: url("../images/gp_back1.png");
+    background-size: cover;
+}
